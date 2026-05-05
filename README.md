@@ -18,9 +18,12 @@ management decision-making.
 - ✅ Improved on-time delivery tracking by 25%
 
 ## 📁 Files in this Repository
+
 | File | Description |
 |---|---|
-| `vendor_analysis.ipynb` | Python EDA notebook |
-| `vendor_queries.sql` | SQL queries used |
-| `vendor_dashboard.pbix` | Power BI dashboard file |
-| `data/vendor_data.xlsx` | Raw dataset |
+| `Vendor Performance Analysis.ipynb` | Main analysis notebook |
+| `Exploratory Data Analysis.ipynb` | EDA notebook |
+| `get_vendor_summary.py` | Vendor summary script |
+| `ingestion_db.py` | Database ingestion script |
+| `vendor performance dashboard by anu.pbix` | Power BI dashboard |
+| `vendor_sales_summary.csv` | Raw dataset |
